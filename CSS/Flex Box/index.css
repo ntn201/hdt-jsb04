@@ -1,0 +1,24 @@
+#box1{
+    background-color: black;
+    border: 4px red solid;
+    color: white; 
+}
+
+#box2{
+    background-color: blue;
+}
+
+#root{
+    height: 400px;
+    background-color: brown;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    box-sizing: border-box;
+}

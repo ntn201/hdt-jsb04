@@ -1,0 +1,16 @@
+/* External */
+/* Select by tag name */
+h1{
+    color:red
+}
+h2{
+    color: blue;
+}
+/* Select by id */
+#target{
+    color: red;
+}
+/* Select by class name */
+.color-red{
+    color:red;
+}
